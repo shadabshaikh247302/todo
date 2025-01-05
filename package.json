@@ -4,7 +4,7 @@
   "description": "backend for todo",
   "main": "server.js",
   "scripts": {
-    "server": "nodemon server.js"
+    "server": "node server.js"
   },
   "author": "Adam",
   "license": "ISC",
