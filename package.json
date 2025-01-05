@@ -6,7 +6,7 @@
   "scripts": {
     "server": "node server.js"
   },
-  "author": "shadab",
+
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
